@@ -39,7 +39,7 @@ Response/Confirmation to User
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/agentic-ai-workflow-assistant.git
+git clone https://github.com/Ahmad-Khalil-LEEA/agentic-ai-workflow-assistant.git
 cd agentic-ai-workflow-assistant
 ```
 
